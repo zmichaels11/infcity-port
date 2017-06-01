@@ -1,0 +1,3 @@
+[submodule "gloopcpp"]
+	path = gloopcpp
+	url = https://github.com/zmichaels11/gloopcpp.git
